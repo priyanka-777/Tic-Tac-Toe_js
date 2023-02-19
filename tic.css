@@ -1,0 +1,64 @@
+h1{
+    text-align: center;
+    color: rgb(206, 35, 35);
+    text-decoration: solid;
+    font-size: 40px;
+    text-shadow:0.5px 0.5px azure;
+    text-transform: none;
+}
+h2{
+    font-size: medium;
+    font-style: oblique;
+    color: antiquewhite;
+}
+#name1,#name2{
+    color: black;
+    font-style: italic;
+}
+#main{
+    text-align: center;
+    background-image: url(tic.jpg);
+    background-repeat: no-repeat;
+    width: fit-content;
+    background-size: cover;
+}
+p{
+    text-align: center;
+    color: whitesmoke;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+    text-shadow: 0.3px 0.5px skyblue;
+}
+#b1, #b2, #b3, #b4, #b5, #b6, #b7, #b8, #b9{
+    width: 70px;
+    height: 50px;
+    margin: auto;
+    border: 1px solid gray;
+    border-radius: 6px;
+    font-size: 30px;
+    text-align: center;
+    background: rgb(71,59,65);
+    background: radial-gradient(circle, rgba(71,59,65,1) 0%, rgba(247,249,251,1) 100%); 
+    color: white;
+    text-shadow:0.5px 0.5px black;
+}
+#btn{
+    box-sizing: border-box;
+    width: 100px;
+    height: 35px;
+    border: 1px solid dodgerblue;
+    margin: auto;
+    border-radius: 4px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: dodgerblue;
+    color:white;
+    font-size: 20px;
+    cursor: pointer;
+}
+#print {
+    font-family: Verdana,
+        Geneva, Tahoma, sans-serif;
+
+    color: dodgerblue;
+    font-size: 20px;
+}
